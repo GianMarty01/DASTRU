@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\bin\Debug\Pepito_Dastru.exe.config
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\bin\Debug\Pepito_Dastru.exe
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\bin\Debug\Pepito_Dastru.pdb
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\obj\Debug\Pepito_Dastru.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\obj\Debug\Pepito_Dastru.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\obj\Debug\Pepito_Dastru.exe
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\obj\Debug\Pepito_Dastru.pdb
+C:\Users\ACT-STUDENT\Desktop\datru\Pepito_Dastru\Pepito_Dastru\obj\Debug\Pepito_Dastru.exe.config
